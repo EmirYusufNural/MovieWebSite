@@ -22,7 +22,7 @@ To get a local copy of FilmWeb, you can do the following:
 
   Click the "Fork" button to copy the FilmWeb code.
   Open a command prompt like Git Bash or Terminal.
-  Choose the location you want to clone to and run the command git clone "https://github.com/[your username]/FilmWeb.git."
+  Choose the location you want to clone to and run the command git clone "[https://github.com/[your username]/FilmWeb.git.](https://github.com/EmirYusufNural/MovieWebSite.git)"
   Use the command npm install to install the necessary packages.
   Use the command npm start to start the website.
   Contributing
@@ -30,7 +30,7 @@ If you want to contribute to FilmWeb, please follow these steps:
 
   Click the "Fork" button to copy the latest version of FilmWeb.
   Open a command prompt like Git Bash or Terminal.
-  Choose the location you want to clone to and run the command git clone "https://github.com/[your username]/FilmWeb.git."
+  Choose the location you want to clone to and run the command git clone "[https://github.com/[your username]/FilmWeb.git.](https://github.com/EmirYusufNural/MovieWebSite.git)"
   Use the command npm install to install the necessary packages.
   Modify and develop your code.
   Use the command git push to upload your changes.
