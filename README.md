@@ -35,5 +35,6 @@ If you want to contribute to FilmWeb, please follow these steps:
   Modify and develop your code.
   Use the command git push to upload your changes.
   Create a branch in the FilmWeb repository to send a pull request.
-#License
-#FilmWeb is licensed under the MIT license. The copyright owner name and license terms are included.
+
+License
+FilmWeb is licensed under the MIT license. The copyright owner name and license terms are included.
