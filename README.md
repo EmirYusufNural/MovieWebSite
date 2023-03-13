@@ -13,9 +13,7 @@ Features
 FilmWeb was developed using the following technologies:
 
 +HTML, CSS, and JavaScript
-+React.js
-+Node.js and Express
-+MongoDB
+
 
 Installation
 To get a local copy of FilmWeb, you can do the following:
